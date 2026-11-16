@@ -1,0 +1,13 @@
+{
+  "name": "mens-style-skills",
+  "owner": {
+    "name": "Benjamin Kech"
+  },
+  "plugins": [
+    {
+      "name": "mens-style-skills",
+      "source": "./",
+      "description": "Personal men's stylist skills: color analysis, outfits from your own wardrobe, grooming and a personal style book."
+    }
+  ]
+}
