@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 — 2026-11-16
+
+- Fixed: `mens-color-analysis` and `mens-style-advisor` descriptions are now quoted, so strict YAML loaders (e.g. Perplexity) accept the frontmatter
+
 ## 0.1.0 — 2026-11-16
 
 Initial version.

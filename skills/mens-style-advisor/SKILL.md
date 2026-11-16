@@ -1,6 +1,6 @@
 ---
 name: mens-style-advisor
-description: Use when a man wants outfit ideas or styling advice from clothes he already owns: daily outfits, occasion and dress-code outfits, layering, color combinations, proportions, an outfit check, or a signature look.
+description: "Use when a man wants outfit ideas or styling advice from clothes he already owns: daily outfits, occasion and dress-code outfits, layering, color combinations, proportions, an outfit check, or a signature look."
 ---
 
 # Men's Style Advisor (Wardrobe & Outfits)

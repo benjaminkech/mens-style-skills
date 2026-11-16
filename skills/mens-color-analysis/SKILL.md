@@ -1,6 +1,6 @@
 ---
 name: mens-color-analysis
-description: Use when a man wants a personal color analysis from a face photo: undertone, contrast, season, best and worst colors, metals, drape images that show colors on his own face, and how to use colors he already owns. Also use when he asks which colors suit him, how a color looks on him, or why an earlier color result differs.
+description: "Use when a man wants a personal color analysis from a face photo: undertone, contrast, season, best and worst colors, metals, drape images that show colors on his own face, and how to use colors he already owns. Also use when he asks which colors suit him, how a color looks on him, or why an earlier color result differs."
 ---
 
 # Men's Color Analysis
